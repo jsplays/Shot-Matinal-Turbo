@@ -1,0 +1,6 @@
+{
+  "name": "Shot Matinal Turbo",
+  "description": "14 receitas rápidas e saborosas para começar o dia, com informação nutricional transparente e sem mitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
